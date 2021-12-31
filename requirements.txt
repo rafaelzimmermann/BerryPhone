@@ -1,0 +1,3 @@
+python-gammu==3.2.4
+python-telegram-bot==13.7
+PyYAML==6.0

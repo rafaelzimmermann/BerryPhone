@@ -1,0 +1,4 @@
+telegram:
+  token: "TOKEN_HERE"
+  chat:
+    id: xxx
